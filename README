@@ -1,0 +1,7 @@
+With increasing complexity of computer technologies the fundamental ideas and prin-
+ciples got hidden behind many layers of abstraction. The beauty of the picture at
+large of how a computer works was sold in exchange for specialization in certain
+fields. This project intends to bridge the gap between theory and practice and thus
+pave way for a better understanding. The best way to understand a computer is to
+build it from scratch. Starting from nothing more than elementary logic gates, this
+project is intended to develop a simple but sufficiently powerful computer system.
